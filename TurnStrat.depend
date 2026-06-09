@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1761841348 source:c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\main.cpp
+	<iostream>
+	"Partie.h"
+	"Soldat.h"
+
+1727167674 c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\include\tuile.h
+
+1727167760 source:c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\src\tuile.cpp
+	<iostream>
+	<cmath>
+	"Tuile.h"
+
+1727173708 source:c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\src\unite.cpp
+	<cmath>
+	"Unite.h"
+
+1727174965 c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\include\unite.h
+
+1761842080 source:c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\src\carte.cpp
+	"Carte.h"
+	<cmath>
+	<iostream>
+	<string>
+
+1761842064 c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\include\carte.h
+	<string>
+	<vector>
+	"Tuile.h"
+
+1727706692 source:c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\src\soldat.cpp
+	<iostream>
+	<cmath>
+	"Soldat.h"
+
+1727176150 c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\include\soldat.h
+	"Unite.h"
+
+1761842148 c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\include\partie.h
+	"Carte.h"
+	"Unite.h"
+
+1761842209 source:c:\users\arwynn\documents\arwynn\code\cpp\turnstrat\src\partie.cpp
+	<iostream>
+	"Partie.h"
+
+1761930454 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\src\carte.cpp
+	"Carte.h"
+	<cmath>
+	<iostream>
+	<string>
+
+1761949882 c:\users\lenovo\documents\projets\turnstrat\turnstrat\include\carte.h
+	<string>
+	<vector>
+	"Tuile.h"
+
+1727167674 c:\users\lenovo\documents\projets\turnstrat\turnstrat\include\tuile.h
+
+1762371567 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\src\partie.cpp
+	<iostream>
+	"Partie.h"
+	"Unite.h"
+	"Templier.h"
+
+1762349633 c:\users\lenovo\documents\projets\turnstrat\turnstrat\include\partie.h
+	"Carte.h"
+	"Unite.h"
+
+1762305433 c:\users\lenovo\documents\projets\turnstrat\turnstrat\include\unite.h
+	<string>
+
+1762305506 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\src\soldat.cpp
+	<iostream>
+	<cmath>
+	"Soldat.h"
+
+1762304627 c:\users\lenovo\documents\projets\turnstrat\turnstrat\include\soldat.h
+	"Unite.h"
+
+1761912420 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\src\tuile.cpp
+	<iostream>
+	<cmath>
+	"Tuile.h"
+
+1762304465 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\src\unite.cpp
+	"Unite.h"
+
+1762370780 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\main.cpp
+	<iostream>
+	"Partie.h"
+	"Soldat.h"
+	"Templier.h"
+
+1762370583 source:c:\users\lenovo\documents\projets\turnstrat\turnstrat\src\templier.cpp
+	<iostream>
+	<cmath>
+	"Templier.h"
+	"Soldat.h"
+
+1762304627 c:\users\lenovo\documents\projets\turnstrat\turnstrat\include\templier.h
+	"Unite.h"
+
