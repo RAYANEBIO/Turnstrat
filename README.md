@@ -103,7 +103,7 @@ Ce projet a été réalisé afin de pratiquer :
 
 ## Auteur
 
-Ryan Ebio
+Rayane BIO
 
 ---
 Projet développé en C++ dans un objectif d'apprentissage de la programmation orientée objet.
